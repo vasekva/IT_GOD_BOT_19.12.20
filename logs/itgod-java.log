@@ -1,0 +1,123 @@
+2020-12-11 10:52:25 INFO  Program:21 - Options received: ip: wss://dev.gameapi.it-god.ru, user: null, bot: b725612f-2b32-4bca-b5c2-f88aa64e8a9a, game: 10a9ddf0-2341-4bf5-8595-48f28272d4c, system: true
+2020-12-11 10:52:25 INFO  log:193 - Logging initialized @428ms to org.eclipse.jetty.util.log.Slf4jLog
+2020-12-11 10:52:25 INFO  WebSocket:35 - Connection opened
+2020-12-11 10:52:25 INFO  WebSocket:23 - Websocket initialized. URI: wss://dev.gameapi.it-god.ru/game
+2020-12-11 10:52:25 INFO  GameEngine:43 - Bot b725612f-2b32-4bca-b5c2-f88aa64e8a9a request game
+2020-12-11 10:52:25 INFO  WebSocket:70 - Request: {"RequestGameParametersArgs":{"BotId":"b725612f-2b32-4bca-b5c2-f88aa64e8a9a","GameId":"10a9ddf0-2341-4bf5-8595-48f28272d4c"},"MsgType":17}
+2020-12-11 10:52:35 INFO  WebSocket:54 - Connection closed
+2020-12-19 12:11:17 INFO  Program:21 - Options received: ip: null, user: null, bot: null, game: null, system: false
+2020-12-19 12:11:17 INFO  log:193 - Logging initialized @409ms to org.eclipse.jetty.util.log.Slf4jLog
+2020-12-19 12:11:17 INFO  WebSocket:35 - Connection opened
+2020-12-19 12:11:17 INFO  WebSocket:23 - Websocket initialized. URI: wss://gameapi.it-god.ru/game
+2020-12-19 12:11:17 INFO  GameEngine:43 - Bot 6dea5ea6-2752-4abe-8da8-97dc3bf0b5f7 request game
+2020-12-19 12:11:17 INFO  WebSocket:70 - Request: {"RequestGameParametersArgs":{"BotId":"6dea5ea6-2752-4abe-8da8-97dc3bf0b5f7","UserId":"adba7760-d300-4a6f-b01e-4a46e8057927"},"MsgType":17}
+2020-12-19 12:11:18 INFO  WebSocket:44 - {"MsgType":9,"GameId":"53c432bb-fa6a-4274-9d46-4c99394f0f23","Subscribers":[],"Sender":{"Ip":"188.32.208.63","Port":60958},"PlayerDisconnectArgs":{"PlayerId":"593057e7-2e48-4991-b180-c38436cf113e"}}
+2020-12-19 12:11:19 INFO  WebSocket:44 - {"MsgType":9,"GameId":"1588f826-318e-4707-8ae9-2992e868b149","Subscribers":[],"Sender":{"Ip":"178.207.154.253","Port":52544},"PlayerDisconnectArgs":{"PlayerId":"02044c85-d7ec-4fad-8a6b-e32823e8485e"}}
+2020-12-19 12:11:21 INFO  WebSocket:44 - {"MsgType":9,"GameId":"57ac5571-bead-4e95-99c4-dbbf3e9b4ab2","Subscribers":[],"Sender":{"Ip":"5.59.53.44","Port":45165},"PlayerDisconnectArgs":{"PlayerId":"4c1ca435-f511-43d0-ad64-775a905d3051"}}
+2020-12-19 12:11:25 INFO  WebSocket:44 - {"MsgType":9,"GameId":"fefc31f7-fe99-4c0b-b2f0-aeb506d1d5fd","Subscribers":[],"Sender":{"Ip":"176.52.99.30","Port":50802},"PlayerDisconnectArgs":{"PlayerId":"21debcc2-74ba-4ada-bccb-1fcf8cf8cf0a"}}
+2020-12-19 12:11:25 INFO  WebSocket:44 - {"MsgType":9,"GameId":"fefc31f7-fe99-4c0b-b2f0-aeb506d1d5fd","Subscribers":[],"Sender":{"Ip":"45.12.73.203","Port":36016},"PlayerDisconnectArgs":{"PlayerId":"cd9add58-e27f-46ea-acca-e53f9ecb7d0a"}}
+2020-12-19 12:11:25 INFO  WebSocket:44 - {"MsgType":9,"GameId":"fefc31f7-fe99-4c0b-b2f0-aeb506d1d5fd","Subscribers":[],"Sender":{"Ip":"176.52.99.30","Port":50788},"PlayerDisconnectArgs":{"PlayerId":"8b525232-33c9-44bb-b17b-41dca2005712"}}
+2020-12-19 12:11:28 INFO  WebSocket:44 - {"MsgType":9,"GameId":"d562beda-2618-4dd6-bc75-cfc31eae550c","Subscribers":[],"Sender":{"Ip":"178.207.154.253","Port":58336},"PlayerDisconnectArgs":{"PlayerId":"e0ae52fa-82e8-48a5-93b4-cbc794a7c9c7"}}
+2020-12-19 12:11:28 INFO  WebSocket:44 - {"MsgType":9,"GameId":"d562beda-2618-4dd6-bc75-cfc31eae550c","Subscribers":[],"Sender":{"Ip":"178.207.154.253","Port":58331},"PlayerDisconnectArgs":{"PlayerId":"8336def5-681c-4f0e-9f5a-7d14c95959b3"}}
+2020-12-19 12:11:29 INFO  WebSocket:44 - {"MsgType":9,"GameId":"d562beda-2618-4dd6-bc75-cfc31eae550c","Subscribers":[],"Sender":{"Ip":"45.12.73.203","Port":58432},"PlayerDisconnectArgs":{"PlayerId":"6d794ed8-f1bb-41f9-9fd5-c3ca2f5b1c8f"}}
+2020-12-19 12:11:38 INFO  WebSocket:44 - {"MsgType":15,"GameId":"d4ce5eff-6b84-47e2-977e-098bffcbc558","Sender":{"Ip":"172.31.0.16","Port":37476}}
+2020-12-19 12:11:51 INFO  WebSocket:44 - {"MsgType":17,"Sender":{"Ip":"178.140.18.140","Port":50974},"RequestGameParametersArgs":{"UserId":"da19d70c-b5da-4b7f-bd51-d5260a63ed53","BotId":"0dfdc192-673e-46b7-ab56-865e94984ed0"}}
+2020-12-19 12:11:51 INFO  WebSocket:44 - {"MsgType":15,"GameId":"5e202eb0-a300-4756-9cb7-85def049a92e","Sender":{"Ip":"172.31.0.16","Port":37476}}
+2020-12-19 12:11:56 INFO  WebSocket:44 - {"MsgType":17,"Sender":{"Ip":"5.59.53.44","Port":56594},"RequestGameParametersArgs":{"UserId":"USER_ID","BotId":"BOT_ID"}}
+2020-12-19 12:11:57 INFO  WebSocket:44 - {"MsgType":15,"GameId":"ea00c939-5484-4351-a088-af3b6f9e7f27","Sender":{"Ip":"172.31.0.16","Port":37476}}
+2020-12-19 12:12:06 INFO  WebSocket:44 - {"MsgType":9,"GameId":"4421a414-0954-4635-8d08-6dc3a1a28aec","Subscribers":[],"Sender":{"Ip":"45.12.73.203","Port":47390},"PlayerDisconnectArgs":{"PlayerId":"991308f9-c573-4d1c-8e98-7c21a1062d19"}}
+2020-12-19 12:12:06 INFO  WebSocket:44 - {"MsgType":9,"GameId":"4421a414-0954-4635-8d08-6dc3a1a28aec","Subscribers":[],"Sender":{"Ip":"45.12.73.203","Port":47314},"PlayerDisconnectArgs":{"PlayerId":"6d794ed8-f1bb-41f9-9fd5-c3ca2f5b1c8f"}}
+2020-12-19 12:12:13 INFO  WebSocket:44 - {"MsgType":15,"GameId":"594e3960-d0e8-4310-a104-3892345ec81d","Sender":{"Ip":"172.31.0.16","Port":37476}}
+2020-12-19 12:12:17 INFO  WebSocket:44 - {"MsgType":9,"GameId":"f586af1d-be1f-4a8c-b612-3936b12d8079","Subscribers":[],"Sender":{"Ip":"45.12.73.203","Port":57770},"PlayerDisconnectArgs":{"PlayerId":"991308f9-c573-4d1c-8e98-7c21a1062d19"}}
+2020-12-19 12:12:17 INFO  WebSocket:44 - {"MsgType":9,"GameId":"f586af1d-be1f-4a8c-b612-3936b12d8079","Subscribers":[],"Sender":{"Ip":"45.12.73.203","Port":41416},"PlayerDisconnectArgs":{"PlayerId":"6d794ed8-f1bb-41f9-9fd5-c3ca2f5b1c8f"}}
+2020-12-19 12:12:20 INFO  WebSocket:44 - {"MsgType":15,"GameId":"4c25ab99-9a8f-4874-8fd3-65734d3e1608","Sender":{"Ip":"172.31.0.16","Port":37476}}
+2020-12-19 12:12:29 INFO  WebSocket:44 - {"MsgType":17,"Sender":{"Ip":"178.207.154.253","Port":53734},"RequestGameParametersArgs":{"UserId":"42dc149f-866f-4b54-9415-4ea6c74b1ea8","BotId":"c1791278-f048-4931-9028-cef6c1740c7b"}}
+2020-12-19 12:12:33 INFO  WebSocket:44 - {"MsgType":15,"GameId":"5286c320-600e-46a6-9034-2dd18e31ef8a","Sender":{"Ip":"172.31.0.16","Port":37476}}
+2020-12-19 12:12:34 INFO  WebSocket:44 - {"MsgType":9,"GameId":"594e3960-d0e8-4310-a104-3892345ec81d","Subscribers":[],"Sender":{"Ip":"178.207.154.253","Port":57843},"PlayerDisconnectArgs":{"PlayerId":"fc3a2a58-235d-4290-9ee7-e86fe79615e5"}}
+2020-12-19 12:12:34 INFO  WebSocket:44 - {"MsgType":9,"GameId":"594e3960-d0e8-4310-a104-3892345ec81d","Subscribers":[],"Sender":{"Ip":"45.12.73.203","Port":58442},"PlayerDisconnectArgs":{"PlayerId":"6d794ed8-f1bb-41f9-9fd5-c3ca2f5b1c8f"}}
+2020-12-19 12:12:36 INFO  WebSocket:44 - {"MsgType":15,"GameId":"fa96cab9-ef0e-4304-972e-113217ed2c54","Sender":{"Ip":"172.31.0.16","Port":37476}}
+2020-12-19 12:12:42 INFO  WebSocket:44 - {"MsgType":17,"Sender":{"Ip":"178.207.154.252","Port":47808},"RequestGameParametersArgs":{"UserId":"b06719c3-b5a4-4d96-99e3-2ef1c5bd0d31","BotId":"eba42360-c1e1-4e7b-8064-b8fb897cfd0c"}}
+2020-12-19 12:12:43 INFO  WebSocket:44 - {"MsgType":9,"GameId":"ea00c939-5484-4351-a088-af3b6f9e7f27","Subscribers":[],"Sender":{"Ip":"178.207.154.253","Port":52585},"PlayerDisconnectArgs":{"PlayerId":"02044c85-d7ec-4fad-8a6b-e32823e8485e"}}
+2020-12-19 12:12:44 INFO  WebSocket:44 - {"MsgType":9,"GameId":"594e3960-d0e8-4310-a104-3892345ec81d","Subscribers":[],"Sender":{"Ip":"178.207.154.253","Port":57825},"PlayerDisconnectArgs":{"PlayerId":"53867905-3009-47a2-b5e5-b4d0a35223fb"}}
+2020-12-19 12:12:48 INFO  WebSocket:44 - {"MsgType":9,"GameId":"fa96cab9-ef0e-4304-972e-113217ed2c54","Subscribers":[],"Sender":{"Ip":"178.207.154.253","Port":62700},"PlayerDisconnectArgs":{"PlayerId":"87105e2c-3a6b-47f5-8806-f73a0faedfed"}}
+2020-12-19 12:12:48 INFO  WebSocket:44 - {"MsgType":9,"GameId":"fa96cab9-ef0e-4304-972e-113217ed2c54","Subscribers":[],"Sender":{"Ip":"178.207.154.253","Port":62695},"PlayerDisconnectArgs":{"PlayerId":"d0ee7736-076b-449c-aa0c-1591bd28c600"}}
+2020-12-19 12:12:48 INFO  WebSocket:44 - {"MsgType":9,"GameId":"fa96cab9-ef0e-4304-972e-113217ed2c54","Subscribers":[],"Sender":{"Ip":"45.12.73.203","Port":41520},"PlayerDisconnectArgs":{"PlayerId":"7d13be71-283b-4fb8-8efa-d9cbbf918fb2"}}
+2020-12-19 12:12:56 INFO  WebSocket:44 - {"MsgType":15,"GameId":"cdbe80e3-7203-4c7e-ae24-9136d8d3f69c","Sender":{"Ip":"172.31.0.16","Port":37476}}
+2020-12-19 12:13:05 INFO  WebSocket:44 - {"MsgType":9,"GameId":"cdbe80e3-7203-4c7e-ae24-9136d8d3f69c","Subscribers":[],"Sender":{"Ip":"178.207.154.253","Port":53768},"PlayerDisconnectArgs":{"PlayerId":"c1791278-f048-4931-9028-cef6c1740c7b"}}
+2020-12-19 12:13:05 INFO  WebSocket:44 - {"MsgType":9,"GameId":"cdbe80e3-7203-4c7e-ae24-9136d8d3f69c","Subscribers":[],"Sender":{"Ip":"178.207.154.253","Port":53763},"PlayerDisconnectArgs":{"PlayerId":"42dc149f-866f-4b54-9415-4ea6c74b1ea8"}}
+2020-12-19 12:13:05 INFO  WebSocket:44 - {"MsgType":9,"GameId":"cdbe80e3-7203-4c7e-ae24-9136d8d3f69c","Subscribers":[],"Sender":{"Ip":"45.12.73.203","Port":55626},"PlayerDisconnectArgs":{"PlayerId":"6d794ed8-f1bb-41f9-9fd5-c3ca2f5b1c8f"}}
+2020-12-19 12:13:09 INFO  WebSocket:44 - {"MsgType":15,"GameId":"2f15cacf-eaf5-4123-90f5-4dc4346f6993","Sender":{"Ip":"172.31.0.16","Port":37476}}
+2020-12-19 12:13:16 INFO  WebSocket:44 - {"MsgType":17,"Sender":{"Ip":"178.140.18.140","Port":50977},"RequestGameParametersArgs":{"UserId":"da19d70c-b5da-4b7f-bd51-d5260a63ed53","BotId":"0dfdc192-673e-46b7-ab56-865e94984ed0"}}
+2020-12-19 12:13:22 INFO  WebSocket:44 - {"MsgType":15,"GameId":"799f7743-fc44-409c-a01c-e259aa673c6c","Sender":{"Ip":"172.31.0.16","Port":37476}}
+2020-12-19 12:13:25 INFO  WebSocket:44 - {"MsgType":17,"Sender":{"Ip":"5.59.53.44","Port":54982},"RequestGameParametersArgs":{"UserId":"USER_ID","BotId":"BOT_ID"}}
+2020-12-19 12:13:25 INFO  WebSocket:44 - {"MsgType":9,"GameId":"5286c320-600e-46a6-9034-2dd18e31ef8a","Subscribers":[],"Sender":{"Ip":"178.207.154.253","Port":57968},"PlayerDisconnectArgs":{"PlayerId":"e00df288-25f7-441f-8977-57d563a03715"}}
+2020-12-19 12:13:30 INFO  WebSocket:44 - {"MsgType":17,"Sender":{"Ip":"5.59.53.44","Port":58890},"RequestGameParametersArgs":{"UserId":"USER_ID","BotId":"BOT_ID"}}
+2020-12-19 12:13:31 INFO  WebSocket:44 - {"MsgType":15,"GameId":"211c4683-051b-4726-b2a5-050b7632e825","Sender":{"Ip":"172.31.0.16","Port":37476}}
+2020-12-19 12:13:38 INFO  WebSocket:44 - {"MsgType":9,"GameId":"d4ce5eff-6b84-47e2-977e-098bffcbc558","Subscribers":[],"Sender":{"Ip":"178.140.18.140","Port":50971},"PlayerDisconnectArgs":{"PlayerId":"0dfdc192-673e-46b7-ab56-865e94984ed0"}}
+2020-12-19 12:13:38 INFO  WebSocket:44 - {"MsgType":9,"GameId":"d4ce5eff-6b84-47e2-977e-098bffcbc558","Subscribers":[],"Sender":{"Ip":"45.12.73.203","Port":36022},"PlayerDisconnectArgs":{"PlayerId":"6d794ed8-f1bb-41f9-9fd5-c3ca2f5b1c8f"}}
+2020-12-19 12:13:40 INFO  WebSocket:44 - {"MsgType":15,"GameId":"6b64107e-4102-406f-9885-26eeee4c7eaf","Sender":{"Ip":"172.31.0.16","Port":37476}}
+2020-12-19 12:13:42 INFO  WebSocket:44 - {"MsgType":15,"GameId":"f187a695-d782-4a56-ac28-d73de6b47e82","Sender":{"Ip":"172.31.0.16","Port":37476}}
+2020-12-19 12:13:43 INFO  WebSocket:44 - {"MsgType":15,"GameId":"0c965605-4c05-42e2-bad9-ae39f51c7b69","Sender":{"Ip":"172.31.0.16","Port":37476}}
+2020-12-19 12:13:47 INFO  WebSocket:44 - {"MsgType":9,"GameId":"6b64107e-4102-406f-9885-26eeee4c7eaf","Subscribers":[],"Sender":{"Ip":"45.12.73.203","Port":45176},"PlayerDisconnectArgs":{"PlayerId":"1b1db32c-9c28-424b-8081-091dc3f3eda8"}}
+2020-12-19 12:13:47 INFO  WebSocket:44 - {"MsgType":9,"GameId":"6b64107e-4102-406f-9885-26eeee4c7eaf","Subscribers":[],"Sender":{"Ip":"45.12.73.203","Port":56698},"PlayerDisconnectArgs":{"PlayerId":"6d794ed8-f1bb-41f9-9fd5-c3ca2f5b1c8f"}}
+2020-12-19 12:13:49 INFO  WebSocket:44 - {"MsgType":15,"GameId":"dc70e884-d717-4471-8260-6fc4c4244106","Sender":{"Ip":"172.31.0.16","Port":37476}}
+2020-12-19 12:13:50 INFO  WebSocket:44 - {"MsgType":9,"GameId":"5c15f5a4-c4c9-4c56-9b86-8df23a6edaa7","Subscribers":[],"Sender":{"Ip":"46.188.121.178","Port":10357},"PlayerDisconnectArgs":{"PlayerId":"07527056-4d17-476d-916f-f01002d2911b"}}
+2020-12-19 12:13:50 INFO  WebSocket:44 - {"MsgType":9,"GameId":"5c15f5a4-c4c9-4c56-9b86-8df23a6edaa7","Subscribers":[],"Sender":{"Ip":"46.188.121.178","Port":10360},"PlayerDisconnectArgs":{"PlayerId":"eb2b7f2a-9a45-43c9-bb86-8349acbf2914"}}
+2020-12-19 12:13:54 INFO  WebSocket:44 - {"MsgType":15,"GameId":"c2d4b52f-5f6b-40de-b5b3-ba48f18b9cfd","Sender":{"Ip":"172.31.0.16","Port":37476}}
+2020-12-19 12:13:56 INFO  WebSocket:44 - {"MsgType":17,"Sender":{"Ip":"178.140.18.140","Port":50981},"RequestGameParametersArgs":{"UserId":"da19d70c-b5da-4b7f-bd51-d5260a63ed53","BotId":"0dfdc192-673e-46b7-ab56-865e94984ed0"}}
+2020-12-19 12:13:59 INFO  WebSocket:44 - {"MsgType":9,"GameId":"f187a695-d782-4a56-ac28-d73de6b47e82","Subscribers":[],"Sender":{"Ip":"178.207.154.253","Port":62727},"PlayerDisconnectArgs":{"PlayerId":"87105e2c-3a6b-47f5-8806-f73a0faedfed"}}
+2020-12-19 12:13:59 INFO  WebSocket:44 - {"MsgType":9,"GameId":"f187a695-d782-4a56-ac28-d73de6b47e82","Subscribers":[],"Sender":{"Ip":"178.207.154.253","Port":62726},"PlayerDisconnectArgs":{"PlayerId":"d0ee7736-076b-449c-aa0c-1591bd28c600"}}
+2020-12-19 12:13:59 INFO  WebSocket:44 - {"MsgType":9,"GameId":"f187a695-d782-4a56-ac28-d73de6b47e82","Subscribers":[],"Sender":{"Ip":"45.12.73.203","Port":57882},"PlayerDisconnectArgs":{"PlayerId":"7d13be71-283b-4fb8-8efa-d9cbbf918fb2"}}
+2020-12-19 12:14:01 INFO  WebSocket:44 - {"MsgType":9,"GameId":"6b64107e-4102-406f-9885-26eeee4c7eaf","Subscribers":[],"Sender":{"Ip":"178.207.154.253","Port":52647},"PlayerDisconnectArgs":{"PlayerId":"02044c85-d7ec-4fad-8a6b-e32823e8485e"}}
+2020-12-19 12:14:22 INFO  WebSocket:44 - {"MsgType":9,"GameId":"0c965605-4c05-42e2-bad9-ae39f51c7b69","Subscribers":[],"Sender":{"Ip":"212.16.19.4","Port":64659},"PlayerDisconnectArgs":{"PlayerId":"56510f6c-2f15-4357-8e38-b56838ca100c"}}
+2020-12-19 12:14:35 INFO  WebSocket:44 - {"MsgType":9,"GameId":"c2d4b52f-5f6b-40de-b5b3-ba48f18b9cfd","Subscribers":[],"Sender":{"Ip":"212.16.19.4","Port":64663},"PlayerDisconnectArgs":{"PlayerId":"56510f6c-2f15-4357-8e38-b56838ca100c"}}
+2020-12-19 12:14:41 INFO  WebSocket:44 - {"MsgType":9,"GameId":"211c4683-051b-4726-b2a5-050b7632e825","Subscribers":[],"Sender":{"Ip":"178.205.164.89","Port":52449},"PlayerDisconnectArgs":{"PlayerId":"0e0ba96c-fe8b-4df8-90e8-0cb0e49456ff"}}
+2020-12-19 12:14:41 INFO  WebSocket:44 - {"MsgType":9,"GameId":"211c4683-051b-4726-b2a5-050b7632e825","Subscribers":[],"Sender":{"Ip":"45.12.73.203","Port":55632},"PlayerDisconnectArgs":{"PlayerId":"e2c773fc-5527-4aab-8fd0-82fdd27d1f50"}}
+2020-12-19 12:14:41 INFO  WebSocket:44 - {"MsgType":9,"GameId":"2f15cacf-eaf5-4123-90f5-4dc4346f6993","Subscribers":[],"Sender":{"Ip":"178.207.154.253","Port":57876},"PlayerDisconnectArgs":{"PlayerId":"fc3a2a58-235d-4290-9ee7-e86fe79615e5"}}
+2020-12-19 12:14:41 INFO  WebSocket:44 - {"MsgType":9,"GameId":"2f15cacf-eaf5-4123-90f5-4dc4346f6993","Subscribers":[],"Sender":{"Ip":"178.207.154.253","Port":57867},"PlayerDisconnectArgs":{"PlayerId":"53867905-3009-47a2-b5e5-b4d0a35223fb"}}
+2020-12-19 12:14:41 INFO  WebSocket:44 - {"MsgType":9,"GameId":"2f15cacf-eaf5-4123-90f5-4dc4346f6993","Subscribers":[],"Sender":{"Ip":"45.12.73.203","Port":47416},"PlayerDisconnectArgs":{"PlayerId":"6d794ed8-f1bb-41f9-9fd5-c3ca2f5b1c8f"}}
+2020-12-19 12:14:43 INFO  WebSocket:44 - {"MsgType":15,"GameId":"fbeb2bd1-3921-4a81-87e4-6781d1615fc3","Sender":{"Ip":"172.31.0.16","Port":37476}}
+2020-12-19 12:15:05 INFO  WebSocket:44 - {"MsgType":15,"GameId":"5f91509d-1314-4be2-9383-62f71b8fcb28","Sender":{"Ip":"172.31.0.16","Port":37476}}
+2020-12-19 12:15:06 INFO  WebSocket:44 - {"MsgType":9,"GameId":"dc70e884-d717-4471-8260-6fc4c4244106","Subscribers":[],"Sender":{"Ip":"178.207.154.253","Port":55421},"PlayerDisconnectArgs":{"PlayerId":"9efeda32-d4de-4c41-ad6e-5e7c5f2fa56f"}}
+2020-12-19 12:15:09 INFO  WebSocket:44 - {"MsgType":15,"GameId":"6f27481c-fdb5-46b2-8b94-d17cb191565e","Sender":{"Ip":"172.31.0.16","Port":37476}}
+2020-12-19 12:15:12 INFO  WebSocket:44 - {"MsgType":9,"GameId":"6f27481c-fdb5-46b2-8b94-d17cb191565e","Subscribers":[],"Sender":{"Ip":"178.207.154.253","Port":51905},"PlayerDisconnectArgs":{"PlayerId":"9efeda32-d4de-4c41-ad6e-5e7c5f2fa56f"}}
+2020-12-19 12:15:14 INFO  WebSocket:44 - {"MsgType":15,"GameId":"318b512a-4a61-4865-bf8a-65113d7b3b42","Sender":{"Ip":"172.31.0.16","Port":37476}}
+2020-12-19 12:15:19 INFO  WebSocket:44 - {"MsgType":15,"GameId":"3f4bb7e2-89ea-4e17-a148-7afa2c07cdec","Sender":{"Ip":"172.31.0.16","Port":37476}}
+2020-12-19 12:15:19 INFO  WebSocket:44 - {"MsgType":15,"GameId":"1405757d-c2d3-4ac3-9255-1e5f25cd7766","Sender":{"Ip":"172.31.0.16","Port":37476}}
+2020-12-19 12:15:24 INFO  WebSocket:44 - {"MsgType":9,"GameId":"fbeb2bd1-3921-4a81-87e4-6781d1615fc3","Subscribers":[],"Sender":{"Ip":"178.207.154.253","Port":51811},"PlayerDisconnectArgs":{"PlayerId":"5ea2a15d-829f-4a05-aa93-56d1ca1d1601"}}
+2020-12-19 12:15:24 INFO  WebSocket:44 - {"MsgType":9,"GameId":"fbeb2bd1-3921-4a81-87e4-6781d1615fc3","Subscribers":[],"Sender":{"Ip":"45.12.73.203","Port":47434},"PlayerDisconnectArgs":{"PlayerId":"beb73c56-0ee4-4abf-922c-be864122664b"}}
+2020-12-19 12:15:28 INFO  WebSocket:44 - {"MsgType":15,"GameId":"8318052d-fd12-435f-84c6-1b5e9a03cdee","Sender":{"Ip":"172.31.0.16","Port":37476}}
+2020-12-19 12:15:29 INFO  WebSocket:44 - {"MsgType":15,"GameId":"e7b21a32-5517-466f-a549-abcc12247e2e","Sender":{"Ip":"172.31.0.16","Port":37476}}
+2020-12-19 12:15:46 INFO  WebSocket:44 - {"MsgType":9,"GameId":"5e202eb0-a300-4756-9cb7-85def049a92e","Subscribers":[],"Sender":{"Ip":"5.59.53.44","Port":30339},"PlayerDisconnectArgs":{"PlayerId":"1fb446cc-9995-45e4-9eef-143001bd936d"}}
+2020-12-19 12:15:46 INFO  WebSocket:44 - {"MsgType":9,"GameId":"5e202eb0-a300-4756-9cb7-85def049a92e","Subscribers":[],"Sender":{"Ip":"5.59.53.44","Port":14819},"PlayerDisconnectArgs":{"PlayerId":"4c1ca435-f511-43d0-ad64-775a905d3051"}}
+2020-12-19 12:15:47 INFO  WebSocket:44 - {"MsgType":9,"GameId":"3f4bb7e2-89ea-4e17-a148-7afa2c07cdec","Subscribers":[],"Sender":{"Ip":"178.207.154.253","Port":55475},"PlayerDisconnectArgs":{"PlayerId":"6263e618-9307-4d82-8a09-16b068a81f22"}}
+2020-12-19 12:15:47 INFO  WebSocket:44 - {"MsgType":9,"GameId":"3f4bb7e2-89ea-4e17-a148-7afa2c07cdec","Subscribers":[],"Sender":{"Ip":"45.12.73.203","Port":58470},"PlayerDisconnectArgs":{"PlayerId":"6d794ed8-f1bb-41f9-9fd5-c3ca2f5b1c8f"}}
+2020-12-19 12:15:47 INFO  WebSocket:44 - {"MsgType":9,"GameId":"3f4bb7e2-89ea-4e17-a148-7afa2c07cdec","Subscribers":[],"Sender":{"Ip":"178.207.154.253","Port":55467},"PlayerDisconnectArgs":{"PlayerId":"9efeda32-d4de-4c41-ad6e-5e7c5f2fa56f"}}
+2020-12-19 12:15:48 INFO  WebSocket:44 - {"MsgType":9,"GameId":"5f91509d-1314-4be2-9383-62f71b8fcb28","Subscribers":[],"Sender":{"Ip":"178.205.164.89","Port":52535},"PlayerDisconnectArgs":{"PlayerId":"0e0ba96c-fe8b-4df8-90e8-0cb0e49456ff"}}
+2020-12-19 12:15:48 INFO  WebSocket:44 - {"MsgType":9,"GameId":"5f91509d-1314-4be2-9383-62f71b8fcb28","Subscribers":[],"Sender":{"Ip":"45.12.73.203","Port":57892},"PlayerDisconnectArgs":{"PlayerId":"e2c773fc-5527-4aab-8fd0-82fdd27d1f50"}}
+2020-12-19 12:15:51 INFO  WebSocket:44 - {"MsgType":9,"GameId":"318b512a-4a61-4865-bf8a-65113d7b3b42","Subscribers":[],"Sender":{"Ip":"188.32.208.63","Port":61175},"PlayerDisconnectArgs":{"PlayerId":"593057e7-2e48-4991-b180-c38436cf113e"}}
+2020-12-19 12:15:52 INFO  WebSocket:44 - {"MsgType":9,"GameId":"1405757d-c2d3-4ac3-9255-1e5f25cd7766","Subscribers":[],"Sender":{"Ip":"45.12.73.203","Port":55650},"PlayerDisconnectArgs":{"PlayerId":"5e2e1ab8-3558-4533-9cdb-734c064f14b8"}}
+2020-12-19 12:15:52 INFO  WebSocket:44 - {"MsgType":9,"GameId":"1405757d-c2d3-4ac3-9255-1e5f25cd7766","Subscribers":[],"Sender":{"Ip":"45.12.73.203","Port":51148},"PlayerDisconnectArgs":{"PlayerId":"e9320c1d-9c7b-4495-9345-0b6ba18c9a54"}}
+2020-12-19 12:15:52 INFO  WebSocket:44 - {"MsgType":9,"GameId":"1405757d-c2d3-4ac3-9255-1e5f25cd7766","Subscribers":[],"Sender":{"Ip":"178.207.154.253","Port":53748},"PlayerDisconnectArgs":{"PlayerId":"cea9bd3c-06ce-480a-9a50-65c6e04aec06"}}
+2020-12-19 12:15:58 INFO  WebSocket:44 - {"MsgType":15,"GameId":"34c858af-c1f8-47b4-b415-ca78ffdd4119","Sender":{"Ip":"172.31.0.16","Port":37476}}
+2020-12-19 12:16:00 INFO  WebSocket:44 - {"MsgType":9,"GameId":"34c858af-c1f8-47b4-b415-ca78ffdd4119","Subscribers":[],"Sender":{"Ip":"178.207.154.253","Port":59965},"PlayerDisconnectArgs":{"PlayerId":"5ea2a15d-829f-4a05-aa93-56d1ca1d1601"}}
+2020-12-19 12:16:12 INFO  WebSocket:44 - {"MsgType":15,"GameId":"7e8886dd-6ebd-48c0-9930-2daecf5f81cd","Sender":{"Ip":"172.31.0.16","Port":37476}}
+2020-12-19 12:16:37 INFO  WebSocket:44 - {"MsgType":15,"GameId":"20b11f89-43c8-473c-82a7-ed329ef76103","Sender":{"Ip":"172.31.0.16","Port":37476}}
+2020-12-19 12:16:38 INFO  WebSocket:44 - {"MsgType":9,"GameId":"7e8886dd-6ebd-48c0-9930-2daecf5f81cd","Subscribers":[],"Sender":{"Ip":"178.207.154.253","Port":53633},"PlayerDisconnectArgs":{"PlayerId":"5ea2a15d-829f-4a05-aa93-56d1ca1d1601"}}
+2020-12-19 12:16:38 INFO  WebSocket:44 - {"MsgType":9,"GameId":"7e8886dd-6ebd-48c0-9930-2daecf5f81cd","Subscribers":[],"Sender":{"Ip":"45.12.73.203","Port":57906},"PlayerDisconnectArgs":{"PlayerId":"beb73c56-0ee4-4abf-922c-be864122664b"}}
+2020-12-19 12:16:45 INFO  WebSocket:44 - {"MsgType":9,"GameId":"318b512a-4a61-4865-bf8a-65113d7b3b42","Subscribers":[],"Sender":{"Ip":"45.12.73.203","Port":45192},"PlayerDisconnectArgs":{"PlayerId":"2d63a020-8983-4e2e-ad40-2405aa29ca88"}}
+2020-12-19 12:16:46 INFO  WebSocket:44 - {"MsgType":15,"GameId":"14e39bdb-ecd8-4f24-8cbe-efbf497e363e","Sender":{"Ip":"172.31.0.16","Port":37476}}
+2020-12-19 12:16:51 INFO  WebSocket:44 - {"MsgType":9,"GameId":"318b512a-4a61-4865-bf8a-65113d7b3b42","Subscribers":[],"Sender":{"Ip":"45.12.73.203","Port":56714},"PlayerDisconnectArgs":{"PlayerId":"f32b40d0-93b4-42bd-9db0-6a42954c30e5"}}
+2020-12-19 12:16:54 INFO  WebSocket:44 - {"MsgType":15,"GameId":"95236455-d4aa-4d35-9d26-f6cf67f9b42a","Sender":{"Ip":"172.31.0.16","Port":37476}}
+2020-12-19 12:16:58 INFO  WebSocket:44 - {"MsgType":9,"GameId":"8318052d-fd12-435f-84c6-1b5e9a03cdee","Subscribers":[],"Sender":{"Ip":"178.207.154.253","Port":57728},"PlayerDisconnectArgs":{"PlayerId":"e00df288-25f7-441f-8977-57d563a03715"}}
+2020-12-19 12:17:02 INFO  WebSocket:44 - {"MsgType":15,"GameId":"0c3ccb4c-5bfe-42b6-91de-296dd5f70af3","Sender":{"Ip":"172.31.0.16","Port":37476}}
+2020-12-19 12:17:10 INFO  WebSocket:44 - {"MsgType":9,"GameId":"20b11f89-43c8-473c-82a7-ed329ef76103","Subscribers":[],"Sender":{"Ip":"178.207.154.253","Port":55790},"PlayerDisconnectArgs":{"PlayerId":"cea9bd3c-06ce-480a-9a50-65c6e04aec06"}}
+2020-12-19 12:17:12 INFO  WebSocket:44 - {"MsgType":9,"GameId":"8318052d-fd12-435f-84c6-1b5e9a03cdee","Subscribers":[],"Sender":{"Ip":"45.12.73.203","Port":44238},"PlayerDisconnectArgs":{"PlayerId":"991308f9-c573-4d1c-8e98-7c21a1062d19"}}
+2020-12-19 12:17:12 INFO  WebSocket:44 - {"MsgType":9,"GameId":"20b11f89-43c8-473c-82a7-ed329ef76103","Subscribers":[],"Sender":{"Ip":"45.12.73.203","Port":51166},"PlayerDisconnectArgs":{"PlayerId":"5e2e1ab8-3558-4533-9cdb-734c064f14b8"}}
+2020-12-19 12:17:12 INFO  WebSocket:44 - {"MsgType":9,"GameId":"20b11f89-43c8-473c-82a7-ed329ef76103","Subscribers":[],"Sender":{"Ip":"45.12.73.203","Port":55664},"PlayerDisconnectArgs":{"PlayerId":"e9320c1d-9c7b-4495-9345-0b6ba18c9a54"}}
+2020-12-19 12:17:13 INFO  WebSocket:44 - {"MsgType":9,"GameId":"8318052d-fd12-435f-84c6-1b5e9a03cdee","Subscribers":[],"Sender":{"Ip":"45.12.73.203","Port":60424},"PlayerDisconnectArgs":{"PlayerId":"6d794ed8-f1bb-41f9-9fd5-c3ca2f5b1c8f"}}
+2020-12-19 12:17:15 INFO  WebSocket:44 - {"MsgType":17,"Sender":{"Ip":"178.140.18.140","Port":50999},"RequestGameParametersArgs":{"UserId":"da19d70c-b5da-4b7f-bd51-d5260a63ed53","BotId":"0dfdc192-673e-46b7-ab56-865e94984ed0"}}
+2020-12-19 12:17:22 INFO  WebSocket:44 - {"MsgType":9,"GameId":"799f7743-fc44-409c-a01c-e259aa673c6c","Subscribers":[],"Sender":{"Ip":"83.69.219.254","Port":35077},"PlayerDisconnectArgs":{"PlayerId":"347ca83e-4230-4d07-85b8-81d10f331567"}}
+2020-12-19 12:17:22 INFO  WebSocket:44 - {"MsgType":9,"GameId":"799f7743-fc44-409c-a01c-e259aa673c6c","Subscribers":[],"Sender":{"Ip":"45.12.73.203","Port":41526},"PlayerDisconnectArgs":{"PlayerId":"1b2caefc-1b6e-4afa-9bc7-1637a9255fe4"}}
+2020-12-19 12:17:23 INFO  WebSocket:44 - {"MsgType":9,"GameId":"95236455-d4aa-4d35-9d26-f6cf67f9b42a","Subscribers":[],"Sender":{"Ip":"176.52.99.30","Port":50836},"PlayerDisconnectArgs":{"PlayerId":"8b525232-33c9-44bb-b17b-41dca2005712"}}
+2020-12-19 12:17:23 INFO  We
